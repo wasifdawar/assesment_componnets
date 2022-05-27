@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1> Componnets App</h1>
+      <h1>React Componnets App</h1>
     </div>
   );
 }
